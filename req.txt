@@ -11,3 +11,4 @@ llama-index-embeddings-gemini
 llama-index-vector-stores-pinecone
 
 google-generativeai
+fastapi[standard]
